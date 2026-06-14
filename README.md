@@ -1,3 +1,2 @@
   <p align="center">
-<img width="692" height="436" alt="image" src="https://github.com/user-attachments/assets/4c663b6c-5e56-435d-a995-aaca3f02fa05" />
-hi this my clovisona he is dumb
+<img width="811" height="441" alt="image" src="https://github.com/user-attachments/assets/86720ffd-700d-4b92-9842-a989b4489ecc" />
